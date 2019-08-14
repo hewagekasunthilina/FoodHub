@@ -11,11 +11,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
+        <activity android:name=".activity_food" />
         <activity android:name=".category_list" />
         <activity android:name=".add_pet" />
         <activity android:name=".dashboard" />
         <activity android:name=".SignUp" />
+        <activity android:name="activity_dogfood" />
         <activity android:name=".SignIn" />
+
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

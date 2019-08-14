@@ -76,5 +76,11 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
+    <!-- IT18147360 Malassri I.M.S -->
 
+    <string name="food_cat">Food Categories</string>
+    <string name="dog_food">Dog Food</string>
+    <string name="cat_food">Cat Food</string>
+    <string name="bird_food">Bird Food</string>
+    <string name="fish_food">Fish Food</string>
 </resources>
